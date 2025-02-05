@@ -37,3 +37,8 @@ Bu kod, özellikle aşağıdaki durumlar için ideal bir çözümdür:
 📌 Akademik ve Araştırma Çalışmaları → PDF belgelerindeki bilgileri temizleyerek analiz için uygun hale getirebilirsiniz.
 📌 Büyük Ölçekli Metin Analizi → PDF'lerden büyük miktarda veri çıkarıp, Python ile analiz veya duygu analizi yapabilirsiniz.
 📌 Veri Seti Temizleme ve Formatlama → Bozuk veya yanlış karakterleri otomatik olarak temizleyen bir sistemdir.
+
+Bu kodun sıfırdan çalışabilmesi için Python ortamını hazırlamanız ve gerekli bağımlılıkları yüklemeniz gerekiyor. 
+python converter.py ile çalıştırabilirsiniz.
+pyinstaller --onefile --noconsole --icon=app.ico converter.py ile exe çıktısı alıp çalıştırabilirsiniz.
+
