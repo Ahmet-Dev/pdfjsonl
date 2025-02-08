@@ -1,6 +1,7 @@
 # pdfjsonl
 Bu Python kodu, PDF dosyalarını okuyarak içeriklerini JSONL formatına çeviren asenkron ve çok iş parçacıklı (multithreaded) bir uygulamadır. Tkinter kullanılarak bir grafik arayüz (GUI) sağlanır ve kullanıcı birden fazla PDF dosyası seçip JSONL dosyası oluşturabilir.
 Bu kod, PDF dosyalarını JSONL formatına çevirme işlemi sırasında gelişmiş metin işleme ve hata yönetimi özelliklerine sahiptir. İşte detayları:
+
 1️⃣ Tkinter ile Kullanıcı Arayüzü (GUI)
 ✔ PDF dosyalarını seçmek ve işlemek için grafiksel arayüz sunar.
 ✔ Kullanıcılar, düğmelere tıklayarak işlem yapabilir.
